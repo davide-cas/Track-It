@@ -6,3 +6,7 @@ L'idea è quella di lavorare tramite operazioni CRUD su un database che sintetic
 All'interno della base di dati sono presenti due entità: "warehouses" e "orders". Tra queste, vi è rispettivamente una relazione di tipo uno a molti e molti a uno.
 
 Il modello è stato sviluppato attraverso il pattern architetturale del model-view-controller (MVC) e tramite i linguaggi: HTML, CSS e PHP.
+
+
+https://user-images.githubusercontent.com/55694345/124386528-3af4c380-dcdb-11eb-997f-16e29e8c4b6f.mov
+
